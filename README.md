@@ -7,3 +7,6 @@ This directory contains our scripts on state-of-the-art ML algorithms to automat
 
 Priority Prediction: 
 This directory contains our scripts on ML models for prediciting the priority of an issue report for task assigneent or maintenance purposes.
+
+Notebook:
+This directory contatins notebooks for five diffrenet software project. In each of them with tf-idf and fasttext methods we find related method to each issue on our preprocessed datasets which we crawled it and do preprocessing pipeline on it
